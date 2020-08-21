@@ -1,6 +1,6 @@
 # Aditya G
 
-Jack of all Trades | Fiduciary & Investment Advisor | Artist | Story Teller | Humorist | Tinkerer | Autodidact| Father |
+Jack of all Trades | Trusted Fiduciary & Investment Advisor | Artist | Storyteller | Humorist | Tinkerer | Autodidact| Father |
 
 My solo advisory website: [Panthera Capital](https://www.pantheracapital.in)
 
