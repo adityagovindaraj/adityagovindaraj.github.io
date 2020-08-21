@@ -2,9 +2,9 @@
 
 Jack of all Trades | Trusted Fiduciary & Investment Advisor | Artist | Storyteller | Humorist | Tinkerer | Autodidact| Father |
 
-My solo advisory website: [Panthera Capital](https://www.pantheracapital.in)
+My solo advisory practice: [Panthera Capital](https://www.pantheracapital.in)
 
-My Photo website: [Aditya.Photos](https://adityag.netlify.app)
+My Photo website: [aditya.photos](https://adityag.netlify.app)
 
 [My LinkedIn Profile](https://www.linkedin.com/in/aditya-g-946700b9/)
 
