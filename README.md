@@ -1,6 +1,6 @@
 # Aditya G
 
-Polymath | Jack of all Trades | Fiduciary
+Polymath | Jack of all Trades | Fiduciary | Certified Financial Planner (CFPCM) | Artist | Story Teller | Humorist | Tinkerer | Father |
 
 My solo advisory website: [Panthera Capital](https://www.pantheracapital.in)
 
