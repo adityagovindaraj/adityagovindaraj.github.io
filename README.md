@@ -1,3 +1,5 @@
+# aditya
+
 trusted fiduciary / financial planner / autodidact / artist / storyteller
 
 financial planning: [panthera capital](https://www.pantheracapital.in)
