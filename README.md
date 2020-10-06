@@ -1,6 +1,6 @@
 # Aditya G
 
-Trusted Fiduciary / Artist / Storyteller / Humourist / Autodidact
+Trusted Fiduciary / Financial Planner / Autodidact / Artist / Humourist / Storyteller
 
 My solo advisory practice: [Panthera Capital](https://www.pantheracapital.in)
 
