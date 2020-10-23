@@ -2,7 +2,7 @@
 
 trusted fiduciary / financial planner / autodidact / artist / storyteller
 
-financial planning: [panthera capital](https://www.pantheracapital.in)
+financial planning: [panthera financial advisory](https://www.pantheracapital.in)
 
 art: [aditya.photos](https://adityag.netlify.app)
 
