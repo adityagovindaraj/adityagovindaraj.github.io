@@ -1,1 +1,1 @@
-You can access the website by clicking on my name: [aditya](https://adityag81.github.io)
+You can access my text-only website by clicking [here](https://adityag81.github.io).
