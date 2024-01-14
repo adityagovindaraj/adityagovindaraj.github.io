@@ -1,6 +1,5 @@
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
 # books that shaped my life
-  
+
   - srimad bhagvad gita
   - kamasutra by vatyayana
   - ramayana by ved valmiki
