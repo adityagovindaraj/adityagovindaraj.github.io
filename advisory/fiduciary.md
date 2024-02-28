@@ -138,7 +138,7 @@ Please do send me an email, which is mentioned at the top of this web page. Intr
 
 ###  Compliance Information (as required by the statute)
 
-#### Number of Complaints (as on 07 September 2023)
+#### Number of Complaints (as on 31 January 2024)
 [Compliance Requirement As per SEBI circular [SEBI/HO/IMD/DF1/CIR/P/2019/169](https://www.sebi.gov.in/legal/circulars/dec-2019/measures-to-strengthen-the-conduct-of-investment-advisers-ia-_45490.html) dated December 27, 2019]
 
 |At the beginning of the month|	Received during the month|Resolved during the month|Pending at the end of the month|Reasons for pendency|
@@ -212,7 +212,7 @@ Mission: Every investor should be able to invest in right investment products ba
 
 **Annexure B**
 
-<i>Month Ending: August 2023</i>
+<i>Month Ending: January 2024</i>
 
 |Received From|Pending at end of last month|Received|Resolved|Total Pending|Pending > 3 months|Average Resolution time (days)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -224,12 +224,12 @@ Mission: Every investor should be able to invest in right investment products ba
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
+|December 2023|0|0|0|0|
+|November 2023|0|0|0|0|
+|October 2023|0|0|0|0|
+|September 2023|0|0|0|0|
 |August 2023|0|0|0|0|
 |July 2023|0|0|0|0|
-|June 2023|0|0|0|0|
-|May 2023|0|0|0|0|
-|April 2023|0|0|0|0|
-|March 2023|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
