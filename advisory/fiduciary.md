@@ -139,7 +139,7 @@ Please do send me an email, which is mentioned at the top of this web page. Intr
 ###  Compliance Information (as required by the statute)
 
 #### Number of Complaints (as on 31 January 2024)
-[Compliance Requirement As per SEBI circular [SEBI/HO/IMD/DF1/CIR/P/2019/169](https://www.sebi.gov.in/legal/circulars/dec-2019/measures-to-strengthen-the-conduct-of-investment-advisers-ia-_45490.html) dated December 27, 2019]
+[Compliance Requirement As per SEBI circular (SEBI/HO/IMD/DF1/CIR/P/2019/169) dated December 27, 2019]
 
 |At the beginning of the month|	Received during the month|Resolved during the month|Pending at the end of the month|Reasons for pendency|
 |:---:|:---:|:---:|:---:|:---:|
