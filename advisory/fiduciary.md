@@ -30,7 +30,7 @@ Mail me at <b>ADITYA [dot] INVEST[at]</i> OUTLOOK <i>[dot]</i> COM</b>
 
 ## Frequently Asked Questions ##
 
-Why did you decide to become an investment adviser?
+**Why did you decide to become an investment adviser?**
 
 Three reasons.
 
@@ -40,35 +40,35 @@ Second, I strongly believe that being a fiduciary is the best way to help anyone
 
 Third, it is difficult to find a fiduciary. And, it's even more difficult to find a genuine advisor whose investment advice is tailored to the your specific needs.
 
-Are you always a fiduciary, and will you state that in writing?
+**Are you always a fiduciary, and will you state that in writing?**
 
 Yes. My relationship with you is purely fiduciary. The client’s best interest is the key driver of the fiduciary-client relationship. There’s no such thing as part-time fiduciary. Either one is in the fiduciary business, or not. And I’m in the fiduciary business.
 
-Does anybody else ever pay you to recommend certain products or services?
+**Does anybody else ever pay you to recommend certain products or services?**
 
-No. That would be violation of SEBI regulations. I do not earn commissions on products, and I do not sell products. In order to buy financial products that will be suitable to you, I’ll be happy to recommend some good financial distributors.
+No. That would be violation of SEBI regulations. I do not earn commissions on products, and I do not sell products. In order to buy financial products that will be suitable to you, I’ll be happy to recommend some good financial distributors or use the "direct route".
 
-What kind of advisory services do you offer?
+**What kind of advisory services do you offer?**
 
 I offer tailormade, bespoke advisory only to "accredited investors".
 
-Who are accredited investors?
+**Who are accredited investors?**
 
 Basically, very very very very very very rich people. There are a set of conditions, prescribed by SEBI, that needs to be satisfied to qualify as an accredited investor. You need to have an annual income of at least INR 2 crore or networth of more than INR 7.5 crore, out of which more than INR 3.75 crore are in financial assets. Yes, I know. It's rather complicated without any basis or rationale, but that's how regulation is.
 
-How much do you charge for your services?
+**How much do you charge for your services?**
 
 I charge a custom fee depending on how complex the client requirements are. It ranges from flat-fee to a percentage of Assets under Advisory (AuA). I prefer it to be simple though so I don't have to open Microsoft Excel.
 
-Are your fees negotiable?
+**Are your fees negotiable?**
 
 No.
 
-Who manages your money?
+**Who manages your money?**
 
 I do. Actually, I manage my entire family’s assets. It is reasonable to have assets managed by a third party, just to keep my biases in check. For this reason, I have diversified our various portfolios to different asset managers, each having their own unique philosophy. Additionally, a part of our portfolio is directly managed by me. This twin approach helps me achieve two objectives: the first objective helps me refine my own thought process which can help me service clients; the second objective helps me have the skin in the game. Both are absolutely critical for understanding the nature of financial advice.
 
-How do I contact you?
+**How do I contact you?**
 
 First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an email, which is mentioned at the top of this web page. Introduce yourself, tell me why you want me as your financial advisor, and the issues you hope to solve. We will have a discussion and see if we can be a good fit and work out something concrete.
 
