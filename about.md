@@ -13,6 +13,6 @@ i play <b>squash</b>, <b>golf</b>, <b>billiards</b>, <b>tabletop games</b>, and 
 
 i am a <b>book snob</b> and i also write a <b>newsletter</b>  
 
-[photography](https://adityag.netlify.app) / [writing](https://buttondown.email/ducksoup) / [gaming](https://steamcommunity.com/profiles/76561197967142591) / [books](https://adityagovindaraj.github.io/books.html)
+[advisory](https://adityagovindaraj.github.io/advisory/fiduciary.html) / [photography](https://adityag.netlify.app) / [writing](https://buttondown.email/ducksoup) / [gaming](https://steamcommunity.com/profiles/76561197967142591) / [books](https://adityagovindaraj.github.io/books.html)
 
 <img src="https://avatars3.githubusercontent.com/u/13433335?s=400&u=45b2a2e007dd310ba581295892d77dcffc4ba866&v=4" STYLE="position:absolute;RIGHT:30px;BOTTOM:30px;HEIGHT:20%;WIDTH:auto;">
