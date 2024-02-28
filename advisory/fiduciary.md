@@ -28,6 +28,8 @@ I'm a <i>fiduciary</i> and I help clients manage finances, investments, asset al
 
 Mail me at <b>ADITYA [dot] INVEST[at]</i> OUTLOOK <i>[dot]</i> COM</b>
 
+---
+
 ## Frequently Asked Questions ##
 
 **Why did you decide to become an investment adviser?**
