@@ -28,111 +28,49 @@ I'm a <i>fiduciary</i> and I help clients manage finances, investments, asset al
 
 Mail me at <b>ADITYA [dot] INVEST[at]</i> OUTLOOK <i>[dot]</i> COM</b>
 
----
-
 ## Frequently Asked Questions ##
 
-**Why did you decide to become an investment adviser?**
+Why did you decide to become an investment adviser?
 
 Three reasons.
 
-1. For years I've made decisions on investments & financial planning for myself & my family, and it worked pretty well. Now, I want to put my experience to good use -- to help YOU.
+For years I've made decisions on investments & financial planning for myself & my family, and it worked pretty well. Now, I want to put my experience to good use -- to help YOU.
 
-2. Second, I strongly believe that being a fiduciary is the best way to help anyone. Just as doctors look your health, financial/investment adviser look after your financial well-being. Having more fiduciaries is good for consumers.
+Second, I strongly believe that being a fiduciary is the best way to help anyone. Just as doctors look your health, financial/investment adviser look after your financial well-being. Having more fiduciaries is good for consumers.
 
-3. Third, it is difficult to find a fiduciary. And, it's even more difficult to find a genuine advisor whose investment advice is tailored to the your specific needs.
+Third, it is difficult to find a fiduciary. And, it's even more difficult to find a genuine advisor whose investment advice is tailored to the your specific needs.
 
-**Are you always a fiduciary, and will you state that in writing?**
+Are you always a fiduciary, and will you state that in writing?
 
 Yes. My relationship with you is purely fiduciary. The client’s best interest is the key driver of the fiduciary-client relationship. There’s no such thing as part-time fiduciary. Either one is in the fiduciary business, or not. And I’m in the fiduciary business.
 
-**Does anybody else ever pay you to recommend certain products or services?**
+Does anybody else ever pay you to recommend certain products or services?
 
 No. That would be violation of SEBI regulations. I do not earn commissions on products, and I do not sell products. In order to buy financial products that will be suitable to you, I’ll be happy to recommend some good financial distributors.
 
-**What kind of advisory services do you offer?**
+What kind of advisory services do you offer?
 
 I offer tailormade, bespoke advisory only to "accredited investors".
 
-**Who are accredited investors?** 
+Who are accredited investors?
 
-Basically, very very very very very very rich people. There are a set of conditions, prescribed by SEBI, that needs to be satisfied to qualify as an accredited investor. You need to have an annual income of at least INR 2 crore or networth of more than INR 7.5 crore, out of which more than INR 3.75 crore are in financial assets. Yes, I know. It's rather complicated without any basis or rationale, but that's how regulation is. 
+Basically, very very very very very very rich people. There are a set of conditions, prescribed by SEBI, that needs to be satisfied to qualify as an accredited investor. You need to have an annual income of at least INR 2 crore or networth of more than INR 7.5 crore, out of which more than INR 3.75 crore are in financial assets. Yes, I know. It's rather complicated without any basis or rationale, but that's how regulation is.
 
-**How much do you charge for your services?**
+How much do you charge for your services?
 
-I charge a custom fee depending on how complex the client requirements are. It ranges from flat-fee to a percentage of Assets under Advisory (AuA). I prefer it to be simple though so I don't have to open Microsoft Excel. 
+I charge a custom fee depending on how complex the client requirements are. It ranges from flat-fee to a percentage of Assets under Advisory (AuA). I prefer it to be simple though so I don't have to open Microsoft Excel.
 
-**Are your fees negotiable?**
+Are your fees negotiable?
 
-No.  
+No.
 
-**I have met "advisors" who do not charge a fee. Can you tell me more about this?**
-
-It is likely you're referring to "distributors" such as bank relationship managers, mutual fund distributors, online platforms, stock brokers (yes, they are "distributors" as well) etc. They often call themselves "advisors", which is a clever use of semantics, and one that is extremely misleading and dangerous! In fact, SEBI recently barred product distributors from calling themselves "advisors" or IFAs or RIAs or similar nomenclatures.
-
-**So, who are distributors?**
-
-They SELL financial products for "free", hence, they do not charge you directly. Instead, they earn COMMISSIONS on the products they sell from product orginators (i.e. mutual funds, PMS, AIFs, etc), instead of you. In other words, you are actually paying distributors vis-a-vis product originator, not directly to them! Distributors are NOT fiducaries, they are SALES people. Remember, there is no such thing as free lunch!
-
-**What does the advisory process look like?**
-
-Good question! A lot of clients do not know what it looks like and it's important to know. Each client will require a different process & approach that's unique to their situation and problem set. It's akin to a doctor examining a patient to determine the appropriate procedure. Some clients will require more tactical/technical approach with number crunching while some will be more strategic. However, the overall process involves deep conversations about client's relationship with money, life goals & aspirations, and what issues client hopes to solve. However, goals & aspirations will keep changing every year (even as economic & market conditions keep changing), which is why it is recommended to keep advisors for the long term so that clients can recaliberate their goals and strategy.
-
-**Is there a minimum threshold required to be your client?**
-
-Yes. Transparency, effort, and willingness to pay for specialised service. Yet, before you become a client, we will assess each other to see if we can be a good fit. If a patient does not allow the doctor to diagnose the problem, the doctor cannot be expected to treat the patient. And the patient cannot expect the diagnosis to be free, nevermind the procedure (if any). The same principle applies in case of fiduciary-client relationship. The client will have to tell me the issues and I will assess if I can solve those. Last but not the least, the client must be willing to pay for the service.
-
-**Can you tell me about your conflicts of interest, orally and in writing?**
-
-Of course. Every advisor, regardless of business model or form of compensation, will have some conflicts. My motivation is fairly simple: I want you to be my client for a long time, and pay me every year. I don’t care if you take money from your portfolio to buy something or invest elsewhere, because it is your prerogative and you decide what to do with your money. My job is to give you the best advice possible to achieve your goals & objectives, whether it is capital protection or wealth generation. My job is to aid your decision making and make it easier for you to execute your ideas to achieve your dreams and goals. I could scale up and generate more income, which is a potential conflict. But, at present, I like operating on my own, and looking after the interests of few cherished clients who come back to me every year because they value my advice. This approach works best for both clients and myself.
-
-**Do you earn fees as adviser to a private fund or other investments that you may recommend to clients?**
-
-I do not serve as an adviser to any third party product originator. I could recommend such products based on the client’s profile and check if the it is suitable to the client’s temperament and investment goals. However, I do not sell products or earn any commissions from any product originator. You will have to buy from a financial distributor or buy directly from the product originator. Remember, I'm a fiduciary!
-
-**Do you pay referral fees to generate new clients?**
-
-No. I have good relationships with many advisors, distributors, lawyers, chartered accountants, asset managers, and potential clients. Sometimes they might refer clients to me. Sometimes, I refer clients to them. But nothing is exchanged between us. It's a fiduciary approach with the client's best interest at heart.
-
-**Do you earn fees for referring clients to specialists like estate attorneys or insurance agents?**
-
-As a fiduciary, if there is something that demands a greater attention to detail, which often would require a second opinion, particularly in specialised areas of law, property, or taxation, I will refer clients to a third party, say a specialised lawyer, advocate, or chartered accountant, whom I feel will add value to the advisory and client. There could be a collaboration of sorts to help the client. However, nothing is exchanged between third parties and me. Remember, I'm a fiduciary!
-
-**What is your investment philosophy?**
-
-Each person’s investment philosophy is distinct and will depend on his/her personality, personal beliefs, and temperament. Mine is very simple – I personally believe that less is more; I believe in holding a concentrated portfolio of assets for long periods of time (which is riskier!), which I believe can deliver exemplary returns; I believe one should rebalance their portfolios periodically in order to attune to the prevailing market and keep investment goals aligned; This being said, I also strongly believe in having an open mind to be receptive to different investment approaches, given the constant evolution the global economy, investment profession, and markets. Thus, it is essential to combine different approaches for your benefit. This is one of the hardest parts of investment advisory, and one that I enjoy the most.
-
-**Do you believe in technical analysis or market timing?**
-
-For some investors this approach works very well. While mostly follow the fundamental approach, I believe there will be certain situations in the markets that will warrant technical analysis approach, given the right conditions. I have tried it a few times and it seems to work just fine. As far as market timing is considered, I believe in it because future returns is a function of how much you paid for an asset. If you buy an overpriced asset, the chances that your future returns will be less will be far greater, and vice versa.
-
-**Do you believe you can beat the market?**
-
-There are some investment managers who possess alpha, or market-beating skills, but it is incredibly difficult to beat the market for sustained periods of time. These investment managers are rare and difficult to spot well in advance. Inevitably, it boils down to timing & loads of luck. That being said, I do not believe in comparing one’s portfolio returns to the market returns, or anyone else's. While I believe in absolute positive returns, the true metric of investment performance is whether you are achieving your goals, preserving your capital, and whether you can sleep well at night.
-
-**How often do you trade?**
-
-Quite regularly. I trade for my own sanity and happiness. It keeps my grey cells busy and helps me keep tabs at current events. However, as part of my investment advisory, trading is something I do not really advise, unless one has a strong risk appetite and doesn't mind risking capital. If anyone wishes to trade, I would recommend starting off with a small corpus, maybe 1% of investible assets before scaling up.
-
-**Which professional credentials do you have, and what are their requirements?**
-
-I have a Certified Financial Planner (CFP) designation, which is the gold standard for wealth management and financial planning, and one of the requirements of being a SEBI-registered Financial Adviser. Thus, there are strict compliance requirements with regards to both CFP designation as well as statutory rules prescribed by SEBI. I have also done my MBA with specialisation in finance & economics, and have completed several wealth management courses from institutes in New York. You can check my [LinkedIn profile](https://www.linkedin.com/in/adityagovindaraj/) for more details.
-
-**After inflation, taxes and fees, what is a reasonable estimated return on my portfolio over the long term?**
-
-Of course, it depends. But most people should expect nominal (before-inflation) returns of 8-10% on a somewhat balanced portfolio. If you consider taxes & inflation, then you’ll end up somewhere around 5-6%. If you are conservative, you should expect something lower than this. If you are enterprising, you can expect something higher than this, but not without risks and many sleepless nights! However, it is pertinent to note that black-swan events have the capacity to completely change the narrative & numbers. And that's the whole point of comprehensive financial planning -- to prepare and take advantage of a wide-range of scenarios that might (or might not) happen in the future. Being prepared is half the battle won.
-
-**Who manages your money?**
+Who manages your money?
 
 I do. Actually, I manage my entire family’s assets. It is reasonable to have assets managed by a third party, just to keep my biases in check. For this reason, I have diversified our various portfolios to different asset managers, each having their own unique philosophy. Additionally, a part of our portfolio is directly managed by me. This twin approach helps me achieve two objectives: the first objective helps me refine my own thought process which can help me service clients; the second objective helps me have the skin in the game. Both are absolutely critical for understanding the nature of financial advice.
 
-**Why is your website plaintext?**
+How do I contact you?
 
-I'm a big fan of the [plaintext movement](https://plaintextproject.online). I like to keep things simple. Also, I love Github (where this website is hosted). Simplicity is the backbone of my advisory and the reason people come to me, and this website is a reflection of how powerful simplicity can be.
-
-**How do I contact you?**
-
-Please do send me an email, which is mentioned at the top of this web page. Introduce yourself, tell me why you want me as your financial advisor, and the issues you hope to solve. We will have a discussion and see if we can be a good fit and work out something concrete.
+First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an email, which is mentioned at the top of this web page. Introduce yourself, tell me why you want me as your financial advisor, and the issues you hope to solve. We will have a discussion and see if we can be a good fit and work out something concrete.
 
 ---
 
