@@ -56,7 +56,7 @@ I offer tailormade, bespoke advisory only to "accredited investors".
 
 **Who are accredited investors?**
 
-Basically, very very very very very very rich people. There are a set of conditions, prescribed by SEBI, that needs to be satisfied to qualify as an accredited investor. You need to have an annual income of at least INR 2 crore or networth of more than INR 7.5 crore, out of which more than INR 3.75 crore are in financial assets. Yes, I know. It's rather complicated without any basis or rationale, but that's how regulation is.
+Very very very very very very rich people. There are a set of conditions, prescribed by SEBI, that needs to be satisfied to qualify as an accredited investor. You need to have an annual income of at least INR 2 crore or networth of more than INR 7.5 crore, out of which more than INR 3.75 crore are in financial assets. Yes, I know. It's rather complicated without any basis or rationale, but that's how regulation is.
 
 **How much do you charge for your services?**
 
