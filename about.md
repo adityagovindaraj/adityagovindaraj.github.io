@@ -1,7 +1,7 @@
 # aditya g
 ### trusted fiduciary / financial planner / investor / trader / artist / gamer / writer / lifelong learner / always curious
 
-i earn my bread <b>investing</b> and <b>trading</b> in financial markets, and help others through <b>financial planning</b>  
+i earn my bread <b>investing</b> and <b>trading</b> in financial markets, and help others through <b>bespoke financial advisory</b>  
 
 i live in <b>madras</b>/<b>chennai</b>, a southern indian port city known for kutcheris, beaches, and thayir sadam  
 
