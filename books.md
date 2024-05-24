@@ -7,6 +7,7 @@
   - mahabharata by ved vyasa
   - pussy by delicious tacos
   - lolita by vladimir nabakov
+  - how to live by derek sivers
   - ghost world by daniel clowes
   - no more mr nice guy by glover
   - liar's poker by michael lewis
