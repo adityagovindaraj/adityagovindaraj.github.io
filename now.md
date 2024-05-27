@@ -5,10 +5,10 @@ Updated May 27th, 2024, from my home in Chennai.
 It's hot and sunny today. Around 32 degrees celsius, but feels like 38 degrees celsius because of the humidity.   
 
 # Professional title  
-Investment Advisor, CFP, MBA, Professional Trader
+Registered Investment Advisor, Professional Trader
 
 # What do you do?  
-I diagnose families for financial problems and try fix it through counselling and behavioural inquiry. I also generate wealth through financial planning & asset allocation, which is a little more technical but not as important as psychology & behaviour.    
+I diagnose families for financial problems and try fix it through counselling and behavioural inquiry. I also generate wealth through financial planning & asset allocation, which is a little more technical but not as important as psychology & behaviour. I also plahy golf, squash, billiards, & tabletop games. Additionally, I love to learn by reading books and watching longform podcasts/interviews.      
 
 # Why?  
 I enjoy helping families achieve their dreams through financial security.   
@@ -26,4 +26,6 @@ Read anything that is difficult and challenges your worldview. For a full list o
 - I will discuss asset allocation and investment ideas with my clients this week.  
 - I am in the process of optimising my material possessions and getting rid of unwanted stuff, especially books which I will donate to a library or charity. Eventually, I would like to whittle down my possessions and live a minmimalist lifestyle. 
 - I have enrolled for two medium-term courses: CTEP and CWM. My goal is to evolve my advisory practice and make it a passive source of income.
-- I have to prepare accounts for my family and file income taxes by this month end.   
+- I have to prepare accounts for my family and file income taxes by this month end.
+
+Inspired by [Derek Sivers](https://sive.rs/now).
