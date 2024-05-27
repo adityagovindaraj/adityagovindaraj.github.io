@@ -10,7 +10,7 @@ It's hot and sunny today. Around 32 degrees celsius, but feels like 38 degrees c
 Registered Investment Advisor, Professional Trader
 
 # What do you do?  
-I diagnose families for financial problems and try fix it through counselling and behavioural inquiry. I also generate wealth through financial planning & asset allocation, which is a little more technical but not as important as psychology & behaviour. I also plahy golf, squash, billiards, & tabletop games. Additionally, I love to learn by reading books and watching longform podcasts/interviews.      
+I diagnose families for financial problems and try fix it through counselling and behavioural inquiry. I also generate wealth through financial planning & asset allocation, which is a little more technical but not as important as psychology & behaviour. I also play golf, squash, billiards, & tabletop games. Additionally, I love to learn through books and longform podcasts/interviews.      
 
 # Why?  
 I enjoy helping families achieve their dreams through financial security.   
