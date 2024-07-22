@@ -52,19 +52,20 @@ No. That would be violation of SEBI regulations. I do not earn commissions on pr
 
 **What kind of advisory services do you offer?**
 
-I offer tailormade, bespoke advisory only to "accredited investors".
-
-**Who are accredited investors?**
-
-Very very very very very very rich people. There are a set of conditions, prescribed by SEBI, that needs to be satisfied to qualify as an accredited investor. You need to have an annual income of at least INR 2 crore or networth of more than INR 7.5 crore, out of which more than INR 3.75 crore are in financial assets. Yes, I know. It's rather complicated without any basis or rationale, but that's how regulation is.
+I offer bespoke financial and investment advisory.
 
 **How much do you charge for your services?**
 
-I charge a custom fee depending on how complex the client requirements are. It ranges from flat-fee to a percentage of Assets under Advisory (AuA). I prefer it to be simple though so I don't have to open Microsoft Excel.
+I charge depending on how complex the client requirements are.
 
 **Are your fees negotiable?**
 
 No.
+
+**What is the minimum threshold to be a client?**
+
+- Willingness to pay (high) fees.
+- Willingness to take accountability & responsibility for decisions.
 
 **Who manages your money?**
 
@@ -78,7 +79,7 @@ First check if you're an accredited investor and obtain the accreditation certif
 
 ###  Compliance Information (as required by the statute)
 
-#### Number of Complaints (as on 31 January 2024)
+#### Number of Complaints (as on 31 July 2024)
 [Compliance Requirement As per SEBI circular (SEBI/HO/IMD/DF1/CIR/P/2019/169) dated December 27, 2019]
 
 |At the beginning of the month|	Received during the month|Resolved during the month|Pending at the end of the month|Reasons for pendency|
@@ -152,7 +153,7 @@ Mission: Every investor should be able to invest in right investment products ba
 
 **Annexure B**
 
-<i>Month Ending: January 2024</i>
+<i>Month Ending: July 2024</i>
 
 |Received From|Pending at end of last month|Received|Resolved|Total Pending|Pending > 3 months|Average Resolution time (days)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -164,12 +165,12 @@ Mission: Every investor should be able to invest in right investment products ba
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
-|December 2023|0|0|0|0|
-|November 2023|0|0|0|0|
-|October 2023|0|0|0|0|
-|September 2023|0|0|0|0|
-|August 2023|0|0|0|0|
-|July 2023|0|0|0|0|
+|January 2024|0|0|0|0|
+|February 2024|0|0|0|0|
+|March 2024|0|0|0|0|
+|April 2024|0|0|0|0|
+|May 2024|0|0|0|0|
+|June 2024|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
@@ -179,6 +180,7 @@ Mission: Every investor should be able to invest in right investment products ba
 |FY 2020-21|0|0|0|0|
 |FY 2021-22|0|0|0|0|
 |FY 2022-23|0|0|0|0|
+|FY 2023-24|0|0|0|0|
 
 ---
 
