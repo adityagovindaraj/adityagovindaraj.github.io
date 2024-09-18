@@ -9,7 +9,7 @@ i indulge in <b>photography</b> - street, abstract, & portraiture, as well as <b
 
 i am an advocate for <b>accessibility rights</b>, particularly the deaf & hard-of-hearing  
 
-i indulge in <b>squash</b>, <b>golf</b>, <b>billiards</b>, <b>tabletop games</b>, and <b>CrossFit HIIT</b>  
+i pursue <b>squash</b>, <b>golf</b>, <b>billiards</b>, <b>tabletop games</b>, and <b>CrossFit HIIT</b>  
 
 i am a <b>book snob</b> and i also write a <b>newsletter</b>  
 
