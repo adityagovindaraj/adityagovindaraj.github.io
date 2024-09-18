@@ -79,7 +79,7 @@ First check if you're an accredited investor and obtain the accreditation certif
 
 ###  Compliance Information (as required by the statute)
 
-#### Number of Complaints (as on 31 July 2024)
+#### Number of Complaints (as on 31 August 2024)
 [Compliance Requirement As per SEBI circular (SEBI/HO/IMD/DF1/CIR/P/2019/169) dated December 27, 2019]
 
 |At the beginning of the month|	Received during the month|Resolved during the month|Pending at the end of the month|Reasons for pendency|
@@ -153,7 +153,7 @@ Mission: Every investor should be able to invest in right investment products ba
 
 **Annexure B**
 
-<i>Month Ending: July 2024</i>
+<i>Month Ending: August 2024</i>
 
 |Received From|Pending at end of last month|Received|Resolved|Total Pending|Pending > 3 months|Average Resolution time (days)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -165,12 +165,12 @@ Mission: Every investor should be able to invest in right investment products ba
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
-|January 2024|0|0|0|0|
-|February 2024|0|0|0|0|
 |March 2024|0|0|0|0|
 |April 2024|0|0|0|0|
 |May 2024|0|0|0|0|
 |June 2024|0|0|0|0|
+|July 2024|0|0|0|0|
+|August 2024|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
@@ -191,7 +191,7 @@ Client’s queries / complaints may arise due to lack of understanding or a defi
 1.	Clients can seek clarification to their query and are further entitled to make a complaint in writing, orally or telephonically. An email may be sent to me at <b>ADITYA [dot] INVEST[at]</i> OUTLOOK <i>[dot]</i> COM</b>.
 2.	A letter may also be written with their query/complaint and posted at address mentioned in the Agreement Documentation given at time of client onboarding.
 3.	Clients can write to the Investment Adviser at <b>ADITYA [dot] INVEST[at]</i> OUTLOOK <i>[dot]</i> COM</b>, if the Investor does not receive a response within 10 business days of writing to the Client Servicing Team. The client can expect a reply within 10 business days of approaching the Investment Advisor.
-4.	In case you are not satisfied with our response you can lodge your grievance with SEBI at [SCORES](http://scores.gov.in) or you may also write to any of the offices of SEBI. SCORES may be accessed thorough SCORES mobile application as well, same can be downloaded from below [link](https://play.google.com/store/apps/details?id=com.ionicframework.sebi236330)
+4.	In case you are not satisfied with our response you can lodge your grievance with SEBI at [SCORES ODR PORTAL](https://smartodr.in/login)
 
 ---
 
@@ -216,7 +216,7 @@ Tel: +91-44- 28880222 / 28526686
 Fax: +91-44 -28880333
 Fax: sebisro@sebi.gov.in
 
-[SEBI SCORES](https://www.scores.gov.in/scores/Welcome.html)
+[SEBI ODR PORTAL](https://smartodr.in/login)
 
 **Principal Officer: Aditya G**
 SEBI REG No: INA200011736
