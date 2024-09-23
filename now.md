@@ -1,16 +1,16 @@
 # This document is inspired by [Derek Sivers](https://sive.rs/now).
 
 # Date & Location  
-Updated July 12th, 2024, 0830 hours, from my home in Chennai, India.  
+Updated 23rd September, 2024, 1640 hours, from my home in Chennai, India.  
 
 # Weather  
-Very hot and humid. Around 30 degrees celsius with some rains forecasted at 1700 hours. 
+Very hot and humid. Around 33 Degrees Celsius with 70% relative humidity. With a good chance of rain tonight.
 
 # What I am currently reading  
-Psycho-Cybernetics by Maxwell Maltz
+Sense of an Ending by Julian Barnes
 
 For a full list of books that changed my life, head over [here](https://adityagovindaraj.github.io/books.html)  
 
 # What I am doing now?
 
-Taking a breather, checking out my daily RSS feeds on InOreader, and planning the weekend ahead. Figuring out a few areas in my life which could be improved. Feeling grateful for the week that went by. 
+Fixing my PC. Reinstalling all the softwares. And installing Apex Legends. Just relieved to get back my desktop PC back. Life is back to normal. I don't have to visit my brokers office everyday now. But Windoze is a pain in the arse! 
