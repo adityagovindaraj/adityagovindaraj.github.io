@@ -153,7 +153,7 @@ Mission: Every investor should be able to invest in right investment products ba
 
 **Annexure B**
 
-<i>Month Ending: August 2024</i>
+<i>Month Ending: October 2024</i>
 
 |Received From|Pending at end of last month|Received|Resolved|Total Pending|Pending > 3 months|Average Resolution time (days)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -165,12 +165,12 @@ Mission: Every investor should be able to invest in right investment products ba
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
-|March 2024|0|0|0|0|
-|April 2024|0|0|0|0|
 |May 2024|0|0|0|0|
 |June 2024|0|0|0|0|
 |July 2024|0|0|0|0|
 |August 2024|0|0|0|0|
+|Sept 2024|0|0|0|0|
+|Oct 2024|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
