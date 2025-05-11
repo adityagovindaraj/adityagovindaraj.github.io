@@ -79,7 +79,7 @@ First check if you're an accredited investor and obtain the accreditation certif
 
 ###  Compliance Information (as required by the statute)
 
-#### Number of Complaints (as on 31 October 2024)
+#### Number of Complaints (as on 30 April 2025)
 [Compliance Requirement As per SEBI circular (SEBI/HO/IMD/DF1/CIR/P/2019/169) dated December 27, 2019]
 
 |At the beginning of the month|	Received during the month|Resolved during the month|Pending at the end of the month|Reasons for pendency|
