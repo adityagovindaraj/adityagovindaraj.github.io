@@ -165,12 +165,12 @@ Mission: Every investor should be able to invest in right investment products ba
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
-|May 2024|0|0|0|0|
-|June 2024|0|0|0|0|
-|July 2024|0|0|0|0|
-|August 2024|0|0|0|0|
-|Sept 2024|0|0|0|0|
-|Oct 2024|0|0|0|0|
+|Dec 2024|0|0|0|0|
+|Jan 2025|0|0|0|0|
+|Feb 2025|0|0|0|0|
+|Mar 2025|0|0|0|0|
+|Apr 2025|0|0|0|0|
+|May 2025|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
