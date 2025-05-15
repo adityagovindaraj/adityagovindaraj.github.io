@@ -26,7 +26,7 @@ I'm a <i>fiduciary</i> and I help clients manage finances, investments, asset al
 
 ## Schedule an appointment ##
 
-Mail me at <b>ADITYA [dot] INVEST[at]</i> OUTLOOK <i>[dot]</i> COM</b>
+You may contact me on [LinkedIn](https://www.linkedin.com/in/adityagovindaraj/).
 
 ---
 
@@ -73,7 +73,7 @@ I do. Actually, I manage my entire family’s assets. It is reasonable to have a
 
 **How do I contact you?**
 
-First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an email, which is mentioned at the top of this web page. Introduce yourself, tell me why you want me as your financial advisor, and the issues you hope to solve. We will have a discussion and see if we can be a good fit and work out something concrete.
+First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an message on [LinkedIn](https://www.linkedin.com/in/adityagovindaraj/). Introduce yourself, how you found me, tell me why you want me as your financial advisor, and the issues you hope to solve. We will have an in-depth discussion and see if we can be a good fit and work out something concrete to help you out.
 
 ---
 
