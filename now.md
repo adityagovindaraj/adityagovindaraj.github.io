@@ -8,7 +8,9 @@ Hot and humid morning with clear skies, and the air quality is only so-so. Tempe
 
 # What I am currently reading  
 The Comeback by Annie Zaidi
+
 Trading Composure by Yvan Byeajee
+
 A Gun for Hire by Helmut Newton
 
 For a full list of books that changed my life, head over [here](https://adityagovindaraj.github.io/books.html)  
