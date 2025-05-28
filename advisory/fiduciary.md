@@ -64,7 +64,7 @@ No.
 
 **What is the minimum threshold to be a client?**
 
-- Willingness to pay (high) fees.
+- Willingness to pay fees.
 - Willingness to take accountability & responsibility for decisions.
 
 **Who manages your money?**
