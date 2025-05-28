@@ -1,7 +1,7 @@
 # books that shaped my life
 
   - srimad bhagvad gita
-  - kamasutra by vatyayana
+  - kamasutra by vatsyayana
   - ramayana by ved valmiki
   - rapture by susan minot
   - mahabharata by ved vyasa
