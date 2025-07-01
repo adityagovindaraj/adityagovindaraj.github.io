@@ -165,12 +165,12 @@ Mission: Every investor should be able to invest in right investment products ba
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
-|Dec 2024|0|0|0|0|
 |Jan 2025|0|0|0|0|
 |Feb 2025|0|0|0|0|
 |Mar 2025|0|0|0|0|
 |Apr 2025|0|0|0|0|
 |May 2025|0|0|0|0|
+|June 2025|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
@@ -181,6 +181,7 @@ Mission: Every investor should be able to invest in right investment products ba
 |FY 2021-22|0|0|0|0|
 |FY 2022-23|0|0|0|0|
 |FY 2023-24|0|0|0|0|
+|FY 2024-25|0|0|0|0|
 
 ---
 
@@ -203,6 +204,7 @@ Disclosure with respect to compliance with Annual compliance audit requirement u
 |2|FY 2021-22|Conducted|NIL|
 |3|FY 2022-23|Conducted|NIL|
 |4|FY 2023-24|Conducted|NIL|
+|5|FY 2024-25|In Progress||
 
 ---
 
