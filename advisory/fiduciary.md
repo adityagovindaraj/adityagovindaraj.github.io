@@ -4,7 +4,7 @@
 
 #### SEBI Reg No: INA200011736
 
-#### BASL No: 1142
+#### BSE No: 1142
 
 ---
 
@@ -88,66 +88,109 @@ First check if you're an accredited investor and obtain the accreditation certif
 
 ---
 
-**Annexure A**
+### Investor Charter in Respect of Investment Advisers (IAs)
 
-**Investor Charter in respect of Investment Adviser (IA)**
+#### A. Vision and Mission Statements for Investors Vision: Invest with knowledge & safety.
 
-[Requirements vide SEBI circular SEBI/HO/IMD/IMD-II CIS/P/CIR/2021/0686 dated December 13, 2021]
+Mission:
+Every investor should be able to invest in right investment products based on their needs, manage and monitor them to meet their goals, access reports, and enjoy financial wellness.
 
-**A. Vision and Mission Statements for investors**
-Vision: Invest with knowledge & safety.
-Mission: Every investor should be able to invest in right investment products based on their needs, manage and monitor them to meet their goals, access reports and enjoy financial wellness.
+#### B. Details of Business Transacted by the Investment Adviser with Respect to the Investors
 
-**B. Details of business transacted by the Investment Adviser with respect to the investors.**
-•	To enter into an agreement with the client providing all details including fee details, aspect of Conflict of interest disclosure and maintaining confidentiality of information.
-•	To do a proper and unbiased risk – profiling and suitability assessment of the client.
-•	To obtain registration with Know Your Client Registration Agency (KRA) and Central Know Your Customer Registry (CKYC).
-•	To conduct audit annually.
-•	To disclose the status of complaints in its website.
-•	To disclose the name, proprietor name, type of registration, registration number, validity, complete address with telephone numbers and associated SEBI regional/local Office details in its website.
-•	To employ only qualified and certified employees.
-•	To deal with clients only from official number.
-•	To maintain records of interactions, with all clients including prospective clients (prior to onboarding), where any conversation related to advice has taken place.
+Enter into an agreement with the client providing all details including fee details, aspects of conflict of interest disclosure, and maintaining confidentiality of information.
+Conduct proper and unbiased risk-profiling and suitability assessment of the client.
+Conduct audit annually.
+Disclose the status of complaints on its website.
+Disclose name, proprietor name, type of registration, registration number, validity, complete address with telephone numbers, and associated SEBI Office details (Head office/regional/local Office) on its website.
+Employ only qualified and certified employees.
+Deal with clients only from official number.
+Maintain records of interactions with all clients, including prospective clients (prior to onboarding), where any conversation related to advice has taken place.
+Ensure all advertisements adhere to the provisions of the Advertisement Code for Investment Advisers.
+Not discriminate in terms of services provided among clients opting for same/similar products/services offered by the investment adviser.
 
-**C. Details of services provided to investors**
-•	Onboarding of Clients.
-• Sharing of agreement copy.
-• Completing KYC of clients.
-•	Disclosure to Clients.
-• To provide full disclosure about its business, affiliations, compensation in the agreement.
-• To not access client’s accounts or holdings for offering advice.
-• To disclose the risk profile to the client.
-•	To provide investment advice to the client based on the risk-profiling of the clients and suitability of the client.
+#### C. Details of Services Provided to Investors (No Indicative Timelines)
 
-**D. Details of grievance redressal mechanism and how to access it**
-•	In case of any grievance / complaint, an investor should approach the concerned Investment Adviser and shall ensure that the grievance is resolved within 30 days.
-•	If the investor’s complaint is not redressed satisfactorily, one may lodge a complaint with SEBI on SEBI’s 'SCORES' portal which is a centralized web based complaints redressal system. SEBI takes up the complaints registered via SCORES with the concerned intermediary for timely redressal. SCORES facilitates tracking the status of the complaint.
-•	With regard to physical complaints, investors may send their complaints to: Office of Investor Assistance and Education, Securities and Exchange Board of India, SEBI Bhavan, Plot No. C4-A, ‘G’ Block, Bandra-Kurla Complex, Bandra (E), Mumbai - 400 051.
+Onboarding of Clients
+Sharing of agreement copy
+Completing KYC of clients
+Disclosure to Clients
+Provide full disclosure about its business, affiliations, compensation in the agreement.
+Not access client’s accounts or holdings for offering advice.
+Disclose the risk profile to the client.
+Disclose any conflict of interest of the investment advisory activities with any other activities of the investment adviser.
+Disclose the extent of use of Artificial Intelligence tools in providing investment advisory services.
+Provide investment advice to the client based on the risk-profiling and suitability of the client.
+Treat all advisory clients with honesty and integrity.
+Make adequate disclosure to the investor of all material facts such as risks, obligations, costs, etc. relating to the products or securities advised.
+Provide clear guidance and adequate caution notice to clients when providing investment advice for dealing in complex and high-risk financial products/services.
+Ensure confidentiality of information shared by clients unless required for legal obligations or with client consent.
+Disclose the timelines for various services provided and ensure adherence to said timelines.
 
-**E. Expectations from the investors (Responsibilities of investors)**
-<i>Do's</i>
-•	Always deal with SEBI registered Investment Advisers.
-•	Ensure that the Investment Adviser has a valid registration certificate.
-•	Check for SEBI registration number. Please refer to the list of all SEBI registered Investment Advisers which is available on SEBI website in the following link: [Investment Advisers](https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=13).
-•.	Pay only advisory fees to your Investment Adviser. Make payments of advisory fees through banking channels only and maintain duly signed receipts mentioning the details of your payments.
-•	Always ask for your risk profiling before accepting investment advice. Insist that Investment Adviser provides advisory strictly on the basis of your risk profiling and take into account available investment alternatives.
-•	Ask all relevant questions and clear your doubts with your Investment Adviser before acting on advice.
-•	Assess the risk–return profile of the investment as well as the liquidity and safety aspects before making investments.
-•	Insist on getting the terms and conditions in writing duly signed and stamped. Read these terms and conditions carefully particularly regarding advisory fees, advisory plans, category of recommendations etc. before dealing with any Investment Adviser.
-•	Be vigilant in your transactions.
-•	Approach the appropriate authorities for redressal of your doubts / grievances.
-•	Inform SEBI about Investment Advisers offering assured or guaranteed returns.
+#### D. Details of Grievance Redressal Mechanism and How to Access It
 
-<i>Don'ts</i>
-•	Don’t fall for stock tips offered under the pretext of investment advice.
-•	Do not provide funds for investment to the Investment Adviser.
-•	Don’t fall for the promise of indicative or exorbitant or assured returns by the Investment Advisers. Don’t let greed overcome rational investment decisions.
-•	Don’t fall prey to luring advertisements or market rumors.
-•	Avoid doing transactions only on the basis of phone calls or messages from any Investment adviser or its representatives.
-•	Don’t take decisions just because of repeated messages and calls by Investment Advisers.
-•	Do not fall prey to limited period discount or other incentive, gifts, etc. offered by Investment advisers.
-•	Don’t rush into making investments that do not match your risk taking appetite and investment goals.
-•	Do not share login credential and password of your trading and demat accounts with the Investment Adviser.
+Lodging Complaints with Investment Adviser:
+Investors may approach the concerned Investment Adviser, who shall strive to redress the grievance immediately, but not later than 21 days of receipt.
+Filing Complaints on SCORES or with IAASB:
+SCORES 2.0: Web-based centralized grievance redressal system of SEBI (https://scores.sebi.gov.in)
+First review by designated body (IAASB)
+Second review by SEBI
+Email: Designated email ID of IAASB
+If Not Satisfied:
+File complaint/grievance on SMARTODR platform for resolution through online conciliation or arbitration.
+Physical Complaints:
+Office of Investor Assistance and Education,
+Securities and Exchange Board of India,
+SEBI Bhavan, Plot No. C4-A, ‘G’ Block,
+Bandra-Kurla Complex, Bandra (E),
+Mumbai - 400 051
+
+#### E. Rights of Investors
+
+Right to Privacy and Confidentiality
+Right to Transparent Practices
+Right to Fair and Equitable Treatment
+Right to Adequate Information
+Right to Initial and Continuing Disclosure (including statutory and regulatory disclosures)
+Right to Fair & True Advertisement
+Right to Awareness about Service Parameters and Turnaround Times
+Right to be informed of the timelines for each service
+Right to be Heard and Satisfactory Grievance Redressal
+Right to have timely redressal
+Right to Suitability of the Financial Products
+Right to Exit from financial product or service in accordance with the terms of agreement
+Right to receive clear guidance and caution notice when dealing in complex and high-risk financial products and services
+Additional rights to vulnerable consumers (e.g., access to services in a suitable manner even if differently abled)
+Right to provide feedback on the financial products and services used
+Right against coercive, unfair, and one-sided clauses in financial agreements
+
+#### F. Expectations from the Investors (Responsibilities of Investors)
+
+Do’s
+Always deal with SEBI registered Investment Advisers.
+Ensure that the Investment Adviser has a valid registration certificate.
+Check for SEBI registration number (see SEBI website for list of registered IAs).
+Pay only advisory fees to your Investment Adviser via banking channels; maintain signed receipts.
+You may pay advisory fees through Centralised Fee Collection Mechanism (CeFCoM) if available.
+Always ask for your risk profiling before accepting investment advice; ensure advice is based on your risk profile and available alternatives.
+Ask all relevant questions and clear doubts before acting on advice.
+Assess risk–return profile, liquidity, and safety before investing.
+Insist on written, signed, and stamped terms and conditions; read them carefully.
+Be vigilant in your transactions.
+Approach appropriate authorities for redressal of doubts/grievances.
+Inform SEBI about IAs offering assured or guaranteed returns.
+Be aware of your right to exit IA service, seek clarifications, and provide feedback.
+You are not bound by any clause contravening regulatory provisions.
+
+Don’ts
+Don’t fall for stock tips offered as investment advice.
+Do not provide funds for investment to the Investment Adviser.
+Don’t fall for indicative, exorbitant, or assured returns promises; don’t let greed override rational decisions.
+Don’t fall prey to luring advertisements or market rumors.
+Avoid transactions based solely on phone calls or messages from IAs or their representatives.
+Don’t act just because of repeated messages or calls from IAs.
+Don’t fall for limited period discounts, incentives, gifts, etc. offered by IAs.
+Don’t rush into investments that don’t match your risk appetite and goals.
+Do not share login credentials and passwords of trading, demat, or bank accounts with the IA.
 
 ---
 
@@ -241,7 +284,7 @@ I, Aditya G, am a Securities and Exchange Board of India (SEBI) registered indep
 
 Investment in securities market are subject to market risks. Read all the related documents carefully before investing.
 
-Registration granted by SEBI, membership of BASL (in case of IAs) and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors
+Registration granted by SEBI, membership of BSE (in case of IAs) and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors
 
 The purpose of this website is to provide information only and the contents of this website do not constitute financial advice.
 
