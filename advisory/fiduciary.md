@@ -270,7 +270,7 @@ SEBI REG No: INA200011736
 
 ---
 
-AML Guidelines for Clients can be accessed [here](advisory/AML Guidelines.pdf).
+AML Guidelines for Clients can be accessed [here](https://github.com/adityagovindaraj/adityagovindaraj.github.io/blob/29f24f5132659b52c2bd8fb04c57d2a9ee73f667/advisory/AML%20Guidelines.pdf).
 
 ---
 
