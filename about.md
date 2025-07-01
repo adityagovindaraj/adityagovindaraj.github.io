@@ -15,6 +15,6 @@ i am a <b>book snob</b> and i also write a <b>newsletter</b>
 
 i am doing this [now](https://adityagovindaraj.github.io/now.html).
 
-[advisory](https://adityagovindaraj.github.io/advisory/fiduciary.html) / [photography](https://adityag.netlify.app) / [writing](https://buttondown.email/ducksoup) / [gaming](https://steamcommunity.com/profiles/76561197967142591) / [books](https://adityagovindaraj.github.io/books.html) / [now](https://nownownow.com/p/KcA7)
+[advisory](https://adityagovindaraj.github.io/advisory/fiduciary.html) / [photography](https://lonesomedrifter.netlify.app) / [writing](https://buttondown.email/ducksoup) / [gaming](https://steamcommunity.com/profiles/76561197967142591) / [books](https://adityagovindaraj.github.io/books.html) / [now](https://nownownow.com/p/KcA7)
 
 ![Adi](https://avatars3.githubusercontent.com/u/13433335?s=400&u=45b2a2e007dd310ba581295892d77dcffc4ba866&v=4)
