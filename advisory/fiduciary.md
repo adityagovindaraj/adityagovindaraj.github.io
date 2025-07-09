@@ -196,7 +196,7 @@ Do not share login credentials and passwords of trading, demat, or bank accounts
 
 **Annexure B**
 
-<i>Month Ending: October 2024</i>
+<i>Month Ending: June 2025</i>
 
 |Received From|Pending at end of last month|Received|Resolved|Total Pending|Pending > 3 months|Average Resolution time (days)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -267,6 +267,12 @@ Fax: sebisro@sebi.gov.in
 **Principal Officer: Aditya G**
 SEBI REG No: INA200011736
 <b>ADITYA [dot] INVEST[at]</i> OUTLOOK <i>[dot]</i> COM</b>
+
+**Escalation Matrix for Complaints**
+|Contact Person|email|
+|:---:|:---:|
+|Aditya Govindaraj|aditya.invest@outlook.com|
+|SEBI|[SEBI ODR Mechanism](https://smartodr.in/login)|
 
 ---
 
