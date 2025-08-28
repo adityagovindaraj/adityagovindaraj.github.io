@@ -9,7 +9,6 @@
   - lolita by vladimir nabakov
   - how to live by derek sivers
   - ghost world by daniel clowes
-  - no more mr nice guy by glover
   - liar's poker by michael lewis
   - hamlet by william shakespeare
   - summer blonde by adrian tomine
@@ -22,10 +21,10 @@
   - the soviet chess primer by ilya maizelis
   - the elements of scoring by raymond floyd
   - the old man and the sea by ernest hemingway
-  - the body keeps the score by bessel van de kolk
   - the left hand of darkness by ursula k le guin
   - golf is not a game of perfect by dr bob rotella
   - harvey penick's little red book by harvey penick
+  - the body keeps the score by dr bessel van de kolk
   - the unbearable lightness of being by milan kundera
   - before the coffee gets cold by toshikazu kawaguchi
   - reminiscences of a stock operator by edwin lefèvre
