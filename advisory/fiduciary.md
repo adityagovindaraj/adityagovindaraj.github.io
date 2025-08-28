@@ -268,6 +268,12 @@ Fax: sebisro@sebi.gov.in
 SEBI REG No: INA200011736
 <b>ADITYA [dot] INVEST[at]</i> OUTLOOK <i>[dot]</i> COM</b>
 
+**Escalation Matrix for Complaints**
+|Contact Person|email|
+|:---:|:---:|
+|Aditya Govindaraj|aditya.invest@outlook.com|
+|SEBI|[SEBI ODR Mechanism](https://smartodr.in/login)|
+
 ---
 
 AML Guidelines for Clients can be accessed [here](https://github.com/adityagovindaraj/adityagovindaraj.github.io/blob/29f24f5132659b52c2bd8fb04c57d2a9ee73f667/advisory/AML%20Guidelines.pdf).
