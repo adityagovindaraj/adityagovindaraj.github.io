@@ -79,7 +79,7 @@ First check if you're an accredited investor and obtain the accreditation certif
 
 ###  Compliance Information (as required by the statute)
 
-#### Number of Complaints (as on 30 April 2025)
+#### Number of Complaints (as on 30 September 2025)
 [Compliance Requirement As per SEBI circular (SEBI/HO/IMD/DF1/CIR/P/2019/169) dated December 27, 2019]
 
 |At the beginning of the month|	Received during the month|Resolved during the month|Pending at the end of the month|Reasons for pendency|
@@ -196,7 +196,7 @@ Do not share login credentials and passwords of trading, demat, or bank accounts
 
 **Annexure B**
 
-<i>Month Ending: June 2025</i>
+<i>Month Ending: September 2025</i>
 
 |Received From|Pending at end of last month|Received|Resolved|Total Pending|Pending > 3 months|Average Resolution time (days)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -208,12 +208,12 @@ Do not share login credentials and passwords of trading, demat, or bank accounts
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
-|Jan 2025|0|0|0|0|
-|Feb 2025|0|0|0|0|
-|Mar 2025|0|0|0|0|
 |Apr 2025|0|0|0|0|
 |May 2025|0|0|0|0|
-|June 2025|0|0|0|0|
+|Jun 2025|0|0|0|0|
+|Jul 2025|0|0|0|0|
+|Aug 2025|0|0|0|0|
+|Sep 2025|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
@@ -243,11 +243,11 @@ Disclosure with respect to compliance with Annual compliance audit requirement u
 
 |S No.|Financial Year|Compliance Audit Status|Remarks, If any|
 |:---:|:---:|:---:|:---:|
-|1|FY 2020-21|Conducted|NIL|
-|2|FY 2021-22|Conducted|NIL|
-|3|FY 2022-23|Conducted|NIL|
-|4|FY 2023-24|Conducted|NIL|
-|5|FY 2024-25|In Progress||
+|1|FY 2020-21|Complied|NIL|
+|2|FY 2021-22|Complied|NIL|
+|3|FY 2022-23|Complied|NIL|
+|4|FY 2023-24|Complied|NIL|
+|5|FY 2024-25|Complied|NIL|
 
 ---
 
