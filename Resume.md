@@ -8,7 +8,7 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 ### Private Wealth Advisor
 
-**Self-employed** | Chennai, India
+**Self-employed** | Chennai, India  
 **May 2011 – Present**
 
 - Wealth manager to select high-profile UHNI clients with a focus on long-term, goals-based portfolios.
@@ -18,7 +18,7 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 ### Tax Planner (Part-time)
 
-**Srihari \& Co – India** | Chennai, India
+**Srihari \& Co – India** | Chennai, India  
 **Jul 2015 – Aug 2018**
 
 - Filed 50+ income-tax returns for HNI individuals and corporates over three assessment years.
@@ -37,7 +37,7 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 ### Contributing Writer
 
-**Moneylife** | Mumbai, India
+**Moneylife** | Mumbai, India  
 **Dec 2011 – Feb 2014**
 
 - Worked across copy editing, web design, journalism, investment analysis, and RTI-focused investigative work.
@@ -49,7 +49,7 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 ### Research Analyst
 
-**Karvy Private Wealth** | Mumbai, India
+**Karvy Private Wealth** | Mumbai, India  
 **Jun 2011 – Dec 2011**
 
 - Conducted equity research for PMS mandates, including fundamental analysis, valuation, and model maintenance.
@@ -68,7 +68,7 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 ### Bachelor of Commerce (B.Com.), Economics
 
-**University of Madras**
+**University of Madras**  
 **2000 – 2003**
 
 - Graduated First Class Honours; scored 100% in Statistics and Operations Research.
