@@ -1,6 +1,6 @@
 ## Summary
 
-Private wealth advisor and investor with 30+ years in financial services, focused on asset allocation, risk-taking, and position sizing. Known for concise communication, creative and divergent thinking, and an ability to operate in both structured and high-variability environments. Additional interests and strengths span photography, writing, and advocacy for accessibility, particularly for the deaf and hard-of-hearing.
+Private wealth advisor and investor with 30+ years in financial services, focused on asset allocation, risk-taking, and position sizing. Known for concise communication, creative and divergent thinking, and an ability to operate in both structured and high-variability environments. Additional interests and strengths span photography, writing, and advocacy for accessibility, particularly for the deaf and hard-of-hearing, and sports.
 
 ***
 
@@ -8,7 +8,7 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 ### Private Wealth Advisor
 
-**Self-employed** | Chennai, Tamil Nadu, India
+**Self-employed** | Chennai, India
 **May 2011 – Present**
 
 - Wealth manager to select high-profile UHNI clients with a focus on long-term, goals-based portfolios.
@@ -37,7 +37,7 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 ### Contributing Writer
 
-**Moneylife** | Mumbai Metropolitan Region
+**Moneylife** | Mumbai, India
 **Dec 2011 – Feb 2014**
 
 - Worked across copy editing, web design, journalism, investment analysis, and RTI-focused investigative work.
@@ -49,14 +49,20 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 ### Research Analyst
 
-**Karvy Private Wealth** | Mumbai Area, India
+**Karvy Private Wealth** | Mumbai, India
 **Jun 2011 – Dec 2011**
 
 - Conducted equity research for PMS mandates, including fundamental analysis, valuation, and model maintenance.
 
-*(You can add earlier roles if you want to expand the experience section.)*
 
-***
+### Investment Advisor / Research Analyst
+
+**Anush Shares and Securities Pvt Ltd** | Chennai, India  
+**Nov 2005 - Jun 2011**
+
+- Instrumental in setting up 1-on-1 investment advisory for High Networth Individuals
+- Coordinated the Equity Research team for institutional clients
+- Single-handedly devised, designed, and implemented the firm's internal communication system centred around Google Apps and MS SharePoint from scratch.
 
 ## Education
 
