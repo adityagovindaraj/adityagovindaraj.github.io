@@ -26,7 +26,7 @@ I'm a <i>fiduciary</i> and I help clients manage finances, investments, asset al
 
 ## Schedule an appointment ##
 
-You may contact me on [LinkedIn](https://www.linkedin.com/in/adityagovindaraj/).
+You may contact me on aditya dot invest at outlook dot com
 
 ---
 
@@ -73,13 +73,13 @@ I do. Actually, I manage my entire family’s assets. It is reasonable to have a
 
 **How do I contact you?**
 
-First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an message on [LinkedIn](https://www.linkedin.com/in/adityagovindaraj/). Introduce yourself, how you found me, tell me why you want me as your financial advisor, and the issues you hope to solve. We will have an in-depth discussion and see if we can be a good fit and work out something concrete to help you out.
+First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an email. It's mentioned abov, just before this FAQ section. Introduce yourself, how you found me, tell me why you want me as your financial advisor, and the issues you hope to solve. We will have a conversation over beverage of your choice. We will decide if we can be a good fit and work out something concrete.
 
 ---
 
 ###  Compliance Information (as required by the statute)
 
-#### Number of Complaints (as on 31 October 2025)
+#### Number of Complaints (as on 30 November 2025)
 [Compliance Requirement As per SEBI circular (SEBI/HO/IMD/DF1/CIR/P/2019/169) dated December 27, 2019]
 
 |At the beginning of the month|	Received during the month|Resolved during the month|Pending at the end of the month|Reasons for pendency|
@@ -208,12 +208,12 @@ Do not share login credentials and passwords of trading, demat, or bank accounts
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
-|May 2025|0|0|0|0|
 |Jun 2025|0|0|0|0|
 |Jul 2025|0|0|0|0|
 |Aug 2025|0|0|0|0|
 |Sep 2025|0|0|0|0|
 |Oct 2025|0|0|0|0|
+|Nov 2025|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
@@ -271,7 +271,7 @@ SEBI REG No: INA200011736
 **Escalation Matrix for Complaints**
 |Contact Person|email|
 |:---:|:---:|
-|Aditya Govindaraj|aditya.invest@outlook.com|
+|Aditya Govindaraj|aditya [dot] invest [at] outlook [dot] com|
 |SEBI|[SEBI ODR Mechanism](https://smartodr.in/login)|
 
 ---
