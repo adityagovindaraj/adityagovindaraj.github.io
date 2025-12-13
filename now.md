@@ -1,16 +1,17 @@
 # This document is inspired by [Derek Sivers](https://sive.rs/now).
 
 # Date & Location  
-Updated 26th day of November, 2025, 0847 hours, from my home in Chennai, India.  
+Updated 13th day of December, 2025, 0724 hours, from my home in Chennai, India.  
 
 # Weather  
-Temperature: 29°C, Humidity: 59%, Wind: 24 km/h (NE), UV Index: 4 (moderate), Visibility: 16 kms, Cloud Cover: 3%. Pleasant weather and great for a romantic date. 
+Chennai is currently around 20°C with clear, sunny conditions and light NNW winds, and humidity is high at about 88%. The day’s forecast is mostly sunny, with hazy conditions expected on Sunday and Monday. Great for long romantic walks with your partner or spouse. 
 
 # What I am currently reading  
 Lonely People Meet  
 Riley in the Morning  
+Happiness  
 
 For a full list of books that changed my life, head over [here](https://adityagovindaraj.github.io/books.html)  
 
 # What I am doing now?
-Gameplan for trading is to keep the positions open till end of the week, and possibly extend it to next week, even though the market seems sideways at the moment. Will shop for some Calvins maybe. Perhaps, hit the club later for a frame and drinks with buddies. 
+Savouring the morning breeze on my bare body (wearing black boxers though), drinking ginger tea, and figuring out my weekend plans. Very grateful for what I have in life.
