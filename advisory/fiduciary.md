@@ -52,28 +52,33 @@ No. That would be violation of SEBI regulations. I do not earn commissions on pr
 
 **What kind of advisory services do you offer?**
 
-I offer bespoke financial and investment advisory.
+I offer bespoke financial and investment advisory to accredited investors only.  
 
 **How much do you charge for your services?**
 
-I charge depending on how complex the client requirements are.
+I charge depending on how complex the client requirements are. It's usually between 1%-2% of AuA, and less than the fees charged by portfolio managers and fund houses. I have no employees. I do everything myself, so I expect you to compensate me fairly.
+
+**Why don't you have employees?**
+
+Good question. First, I do not want to scale up. I'm very choosy when it comes to my clientele. And I'm very happy staying small. It's beautiful. I have a lifestyle that works for me. Secondly, I like to be in control and make sure client is serviced well. I am very good at this. If I delegate, there are bound to be slip ups and errors and a host of second-order problems. In the advisory business, this is unacceptable (although, to be fair, there are many advisors who employ and do a good job of handling many people). Thirdly, I perform best when I'm on my own. I love the freedom and attention to detail when I'm on my own. No bosses, no employees.  
 
 **Are your fees negotiable?**
 
-No.
+No. I offer very good value. If you do not feel that way, you are welcome to check some other advisors and there are many good ones out there.  
 
 **What is the minimum threshold to be a client?**
 
-- Willingness to pay fees.
-- Willingness to take accountability & responsibility for decisions.
-
+- You need to be an 'Accredited Investor' (AI) under SEBI regulations. You need an AI certificate from an AI certifying agency.
+- Willingness to take accountability & responsibility for decisions. While I am here to handhold you ultimately the responsibility is yours and yours only.  
+- Willingness to pay fees. 
+- 
 **Who manages your money?**
 
 I do. Actually, I manage my entire family’s assets. It is reasonable to have assets managed by a third party, just to keep my biases in check. For this reason, I have diversified our various portfolios to different asset managers, each having their own unique philosophy. Additionally, a part of our portfolio is directly managed by me. This twin approach helps me achieve two objectives: the first objective helps me refine my own thought process which can help me service clients; the second objective helps me have the skin in the game. Both are absolutely critical for understanding the nature of financial advice.
 
 **How do I contact you?**
 
-First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an email. It's mentioned abov, just before this FAQ section. Introduce yourself, how you found me, tell me why you want me as your financial advisor, and the issues you hope to solve. We will have a conversation over beverage of your choice. We will decide if we can be a good fit and work out something concrete.
+First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an email. It's mentioned above, just before this FAQ section. Introduce yourself, how you found me, tell me why you want me as your financial advisor, and the issues you hope to solve. Try to be specific. We will have a conversation over beverage of your choice. We will decide if we can be a good fit and work out something concrete.
 
 ---
 
