@@ -60,7 +60,7 @@ I charge depending on how complex the client requirements are. It's usually betw
 
 **Why don't you have employees?**
 
-Good question. First, I do not want to scale up. I'm very choosy when it comes to my clientele. And I'm very happy staying small. It's beautiful. I have a lifestyle that works for me. Secondly, I like to be in control and make sure client is serviced well. I am very good at this. If I delegate, there are bound to be slip ups and errors and a host of second-order problems. In the advisory business, this is unacceptable (although, to be fair, there are many advisors who employ and do a good job of handling many people). Thirdly, I perform best when I'm on my own. I love the freedom and attention to detail when I'm on my own. No bosses, no employees.  
+Good question. First, I do not want to scale up. I'm very choosy when it comes to my clientele. And I'm very happy staying small. It's beautiful. I have a lifestyle that works for me. Secondly, I like to be in control and make sure client is serviced well. I am very good at this. If I delegate, there are bound to be slip ups, errors, and a host of second-order problems. In the advisory business, this is unacceptable (although, to be fair, there are many advisors out there who do a good job of handling many employees). Thirdly, I perform best when I'm on my own. I love the freedom and attention to detail. No bosses, no employees.  
 
 **Are your fees negotiable?**
 
@@ -71,7 +71,7 @@ No. I offer very good value. If you do not feel that way, you are welcome to che
 - You need to be an 'Accredited Investor' (AI) under SEBI regulations. You need an AI certificate from an AI certifying agency.
 - Willingness to take accountability & responsibility for decisions. While I am here to handhold you ultimately the responsibility is yours and yours only.  
 - Willingness to pay fees. 
-- 
+
 **Who manages your money?**
 
 I do. Actually, I manage my entire family’s assets. It is reasonable to have assets managed by a third party, just to keep my biases in check. For this reason, I have diversified our various portfolios to different asset managers, each having their own unique philosophy. Additionally, a part of our portfolio is directly managed by me. This twin approach helps me achieve two objectives: the first objective helps me refine my own thought process which can help me service clients; the second objective helps me have the skin in the game. Both are absolutely critical for understanding the nature of financial advice.
