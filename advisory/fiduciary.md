@@ -52,23 +52,27 @@ No. That would be violation of SEBI regulations. I do not earn commissions on pr
 
 **What kind of advisory services do you offer?**
 
-I offer bespoke financial and investment advisory to accredited investors only.  
+I offer bespoke financial and investment advisory to accredited investors only. 
+
+**Who is an Accredited Investor?**
+
+An accredited investor is an individual or entity that meets prescribed income/net worth criteria and is therefore allowed to participate in certain high‑risk, less‑regulated investment opportunities (such as AIFs, PMS, private placements, etc.) with lighter regulatory protections. This makes is easier for me to proffer investment advice and keep my practice to a limited clientele whom I can offer high degree of service. 
 
 **How much do you charge for your services?**
 
-I charge depending on how complex the client requirements are. It's usually between 1%-2% of AuA, and less than the fees charged by portfolio managers and fund houses. I have no employees. I do everything myself, so I expect you to compensate me fairly.
+I charge depending on how complex the client requirements are. It's usually between 1%-2% of AuA, and less than the fees charged by portfolio managers and fund houses. I have no employees. I do everything myself, so I expect to be compensated fairly. 
 
 **Why don't you have employees?**
 
-Good question. First, I do not want to scale up. I'm very choosy when it comes to my clientele. And I'm very happy staying small. It's beautiful. I have a lifestyle that works for me. Secondly, I like to be in control and make sure client is serviced well. I am very good at this. If I delegate, there are bound to be slip ups, errors, and a host of second-order problems. In the advisory business, this is unacceptable (although, to be fair, there are many advisors out there who do a good job of handling many employees). Thirdly, I perform best when I'm on my own. I love the freedom and attention to detail. No bosses, no employees.  
+Good question. First, I do not want to scale up. I'm very choosy when it comes to my clientele and I'm very happy to stay small and nimble. It gives be breathing room for other aspects of my life. It's beautiful. I have a lifestyle that works for me. Secondly, I like to be in control and make sure client is serviced well. If I delegate, there are bound to be slip ups, errors, and a host of second-order problems that can spiral out of control. I dislike putting out fires, so to speak. Thirdly, I perform best when I'm on my own. I love the freedom.  
 
 **Are your fees negotiable?**
 
-No. I offer very good value. If you do not feel that way, you are welcome to check some other advisors and there are many good ones out there.  
+No. I offer very good value for money.  
 
 **What is the minimum threshold to be a client?**
 
-- You need to be an 'Accredited Investor' (AI) under SEBI regulations. You need an AI certificate from an AI certifying agency.
+- You need to be an 'Accredited Investor' (AI) under SEBI regulations. You need an AI certificate from an AI certifying agency. Just Google up and you'll find plenty. Alternatively, ask your Chartered Accountant to help you.  
 - Willingness to take accountability & responsibility for decisions. While I am here to handhold you ultimately the responsibility is yours and yours only.  
 - Willingness to pay fees. 
 
