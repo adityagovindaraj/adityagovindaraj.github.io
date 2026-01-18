@@ -7,8 +7,8 @@ Updated 18th day of January, 2026, 1520 hours, from my home in Chennai, India.
 Current weather in and around Chennai is warm and clear. The temperature is about 28°C with sunny skies and moderate humidity around 60–65%. Great for a walk with your loved one. 
 
 # What I am currently reading  
-Ten Year Affair by Erin Somers
-Heart the Lover by Lily King
+Ten Year Affair by Erin Somers  
+Heart the Lover by Lily King  
 
 For a full list of books that changed my life, head over [here](https://adityagovindaraj.github.io/books.html)  
 
