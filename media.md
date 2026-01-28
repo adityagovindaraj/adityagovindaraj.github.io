@@ -1,0 +1,33 @@
+# media that I have enjoyed and enjoy from time to time
+
+- top gun 1 & 2
+- lord of the rings trilogy
+- impossible mission (all of it so far)
+- grave of the fireflies
+- cowboy bebop
+- game of thrones
+- suits
+- breaking bad
+- prison break
+- casino royale
+- last tango in paris
+- godfather
+- godfather part ii
+- duck soup
+- a night at the opera
+- a day at the races
+- a clockwork orange
+- full metal jacket
+- mulholland drive
+- subramaniapuram
+- luck by chance
+- zindagi na milegi dobara
+- pather panchali
+- jules and jim
+- garden state
+- closer
+- enter the dragon
+- where eagles dare
+- monty python (everthing)
+- mr bean (everything)
+- buster keaton (everything)
