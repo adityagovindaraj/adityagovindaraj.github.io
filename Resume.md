@@ -1,6 +1,6 @@
 ## Summary
 
-Private wealth advisor and investor with 30+ years in financial services, focused on asset allocation, risk-taking, and position sizing. Known for concise communication, creative and divergent thinking, and an ability to operate in both structured and high-variability environments. Additional interests and strengths span photography, writing, and advocacy for accessibility, particularly for the deaf and hard-of-hearing, and sports.
+Private wealth advisor and investor with 30+ years in financial services, focused on asset allocation, risk-taking, and position sizing. Known for concise communication, creative and divergent thinking, and an ability to operate in both structured and high-variability environments. Ruthless & effective.  
 
 ***
 
@@ -79,4 +79,4 @@ Private wealth advisor and investor with 30+ years in financial services, focuse
 
 - **Certificate on Risk Taking**, Real World Risk Institute (RWRI18), Jul 2023.
 - **Writing for the 21st Century**, Ashoka University (AshokaX), Apr 2023.
-- CFP®, CTEP®, SEBI Registered Investment Adviser – details available on request or via regulatory records.
+- **CFP®, CTEP®, SEBI Registered Investment Adviser** – details available on request or via regulatory records.
