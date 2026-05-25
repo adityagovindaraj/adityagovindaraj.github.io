@@ -17,4 +17,4 @@ Beef (Oscar Isaac version)
 For a full list of my favourite media I've enjoyed, head over [here](https://adityagovindaraj.github.io/media.html)
 
 # What I am doing now?
-Soaking up the EPL season. Arsenal winning after 22 years! My goodness! What a feeling!  
+Soaking up the EPL season. Arsenal winning after 22 years! Tottenham avoided relegation. Bittersweet moment when Pep, Salah, Coleman, Stones, and Silva made their final appearances. And next weekend is the Champions League final. What a time to be a Gooner! My goodness! An assortment of emotions!
