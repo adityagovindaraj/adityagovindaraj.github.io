@@ -22,6 +22,7 @@
   - the elements of scoring by raymond floyd
   - the old man and the sea by ernest hemingway
   - the left hand of darkness by ursula k le guin
+  - tinker, tailor, soldier, spy by john lecarre
   - golf is not a game of perfect by dr bob rotella
   - harvey penick's little red book by harvey penick
   - the body keeps the score by dr bessel van de kolk
