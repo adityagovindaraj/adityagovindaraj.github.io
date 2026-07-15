@@ -1,0 +1,33 @@
+# books that shaped my life
+
+  - srimad bhagvad gita
+  - kamasutra by vatsyayana
+  - ramayana by ved valmiki
+  - rapture by susan minot
+  - mahabharata by ved vyasa
+  - pussy by delicious tacos
+  - lolita by vladimir nabakov
+  - how to live by derek sivers
+  - ghost world by daniel clowes
+  - liar's poker by michael lewis
+  - hamlet by william shakespeare
+  - summer blonde by adrian tomine
+  - this is pleasure by mary gaitskill
+  - the market wizards by jack schwager
+  - the unplugged alpha by richard cooper
+  - a good walk spoiled by john feinstein
+  - kafka on the shore by haruki murakami
+  - when the body says no by dr gabor mate
+  - the soviet chess primer by ilya maizelis
+  - the elements of scoring by raymond floyd
+  - the old man and the sea by ernest hemingway
+  - the left hand of darkness by ursula k le guin
+  - tinker, tailor, soldier, spy by john lecarre
+  - golf is not a game of perfect by dr bob rotella
+  - harvey penick's little red book by harvey penick
+  - the body keeps the score by dr bessel van de kolk
+  - the unbearable lightness of being by milan kundera
+  - before the coffee gets cold by toshikazu kawaguchi
+  - reminiscences of a stock operator by edwin lefèvre
+  - the hitchiker's guide to the galaxy by douglas adams
+  - the resistance training revolution by sal di stefano

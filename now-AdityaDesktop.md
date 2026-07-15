@@ -1,20 +1,20 @@
 # This document is inspired by [Derek Sivers](https://sive.rs/now).
 
 # Date & Location  
-Updated 15th day of July, 2026, 1627 hours, from my home in Chennai, India.  
+Updated 15th day of July, 2026, 1622 hours, from my home in Chennai, India.  
 
 # Weather  
-Humid as fuck.
+Humid as fuck. Hawt. 
 
 # What I am currently reading  
-Glossing over Taschen's Araki.
+Rubbish. And a few newsletters. Why do people complain so much?
 
 For a full list of books that changed my life, head over [here](https://adityagovindaraj.github.io/books.html)  
 
 # What I am watching  
-UpDating on YT. Frivolous and juvenile stuff. 
+Frivolous fun and juvenile stuff on YouTube called UpDating. 
 
 For a full list of my favourite media I've enjoyed, head over [here](https://adityagovindaraj.github.io/media.html)
 
 # What I am doing now?
-Preparing my taxes. And figuring out how to allocate my cash pile. Real estate? AIFs? Help me!
+Preparing my taxes. Figuring out how to allocate my cash pile. Equities? AIFs? Real Estate? Help me! 
