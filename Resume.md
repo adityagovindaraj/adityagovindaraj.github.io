@@ -1,82 +1,66 @@
-## Summary
+# [ADITYA G]
+**Private Wealth Advisor & Investor**  
+Chennai, India
 
-Private wealth advisor and investor with 30+ years in financial services, focused on asset allocation, risk-taking, and position sizing. Known for concise communication, creative and divergent thinking, and an ability to operate in both structured and high-variability environments. Ruthless & effective.  
+---
 
-***
+## Executive Summary
 
-## Experience
+Private wealth advisor and investor with deep capital markets experience managing UHNI portfolios. Specialist in tactical asset allocation, position sizing, and asymmetric risk management across listed and unlisted markets. Combines sharp quantitative rigor with high-clarity communication to preserve and compound family wealth through volatile cycles.
 
-### Private Wealth Advisor
+---
 
-**Self-employed** | Chennai, India  
-**May 2011 – Present**
+## Core Competencies
 
-- Wealth manager to select high-profile UHNI clients with a focus on long-term, goals-based portfolios.
-- Lead portfolio construction, asset allocation, and risk-taking decisions across listed and unlisted assets.
-- Provide independent advice on family wealth, including position sizing, downside protection, and liquidity planning.
+- **Portfolio Architecture:** Asset Allocation • Position Sizing • Downside Tail-Risk Hedging • Liquidity Planning
+- **Markets & Strategy:** Equities • Unlisted/Private Assets • Fixed Income • Cross-Border Repatriations (15CA/CB)
+- **Execution & Advisory:** Multi-Generational Wealth Preservation • Regulatory & Tax Planning • Systems Design
 
+---
 
-### Tax Planner (Part-time)
+## Professional Experience
 
-**Srihari \& Co – India** | Chennai, India  
-**Jul 2015 – Aug 2018**
+### **Private Wealth Advisor** | *Self-Employed*  
+**Chennai, India** | *May 2011 – Present*  
+- Direct capital allocation and risk management for a concentrated roster of UHNI families and entrepreneurs.
+- Design resilient, goals-based portfolios across public equities, private markets, and fixed income with disciplined sizing limits.
+- Deliver independent advisory on liquidity runway, generational wealth transfer, and tail-risk mitigation.
 
-- Filed 50+ income-tax returns for HNI individuals and corporates over three assessment years.
-- Managed Form 15CA/CB filings for NRI/HNI repatriations and TDS compliance.
-- Designed and implemented a Kanban workflow that improved audit team productivity by over 60%.
-- Led firm-wide transition from legacy systems to a cloud-based Zoho ecosystem; acted as primary IT troubleshooter.
-- Drafted and edited website content and marketing copy using WordPress.
+### **Tax Planner (Part-time)** | *Srihari & Co*  
+**Chennai, India** | *Jul 2015 – Aug 2018*  
+- Filed 50+ complex income-tax returns for HNIs and corporate entities across three assessment cycles.
+- Handled cross-border remittances, TDS compliance, and Form 15CA/CB certifications for NRI/HNI clients.
+- Engineered a Kanban-based tracking system that improved audit team throughput by 60%.
+- Led firm-wide migration from on-premise infrastructure to a cloud-based Zoho ecosystem.
 
+### **Contributing Writer & Analyst** | *Moneylife*  
+**Mumbai, India** | *Dec 2011 – Feb 2014*  
+- Authored analytical columns and investigative reports on market structures, regulatory shifts, and investment strategies.
+- Spearheaded RTI investigations that pressured SEBI into public disclosure and performance transparency for Portfolio Management Services (PMS).
+- Designed the operational blueprint and web presence for the Moneylife Foundation and Legal Helpline.
 
-### Career Break
+### **Research Analyst** | *Karvy Private Wealth*  
+**Mumbai, India** | *Jun 2011 – Dec 2011*  
+- Executed fundamental equity analysis, financial modeling, and company valuations for institutional PMS mandates.
 
-**Feb 2014 – Jul 2015**
+### **Investment Advisor / Research Analyst** | *Anush Shares and Securities*  
+**Chennai, India** | *Nov 2005 – Jun 2011*  
+- Seeded and scaled the firm's bespoke 1-on-1 HNI investment advisory practice.
+- Coordinated institutional equity research coverage and built the firm's unified internal knowledge base.
 
-- Planned sabbatical for personal development, learning, and exploration prior to returning to advisory work.
-
-
-### Contributing Writer
-
-**Moneylife** | Mumbai, India  
-**Dec 2011 – Feb 2014**
-
-- Worked across copy editing, web design, journalism, investment analysis, and RTI-focused investigative work.
-- Played a key role in RTI initiatives that led to greater transparency from SEBI, including disclosure of PMS data to the public.
-- Conceptualised and helped build the blueprint for Moneylife Foundation and Legal Helpline websites.
-- Supported event media production with emphasis on photography and visual storytelling.
-- Wrote articles and book reviews on investing, financial regulation, and consumer issues.
-
-
-### Research Analyst
-
-**Karvy Private Wealth** | Mumbai, India  
-**Jun 2011 – Dec 2011**
-
-- Conducted equity research for PMS mandates, including fundamental analysis, valuation, and model maintenance.
-
-
-### Investment Advisor / Research Analyst
-
-**Anush Shares and Securities Pvt Ltd** | Chennai, India  
-**Nov 2005 - Jun 2011**
-
-- Instrumental in setting up 1-on-1 investment advisory for High Networth Individuals
-- Coordinated the Equity Research team for institutional clients
-- Single-handedly devised, designed, and implemented the firm's internal communication system centred around Google Apps and MS SharePoint from scratch.
+---
 
 ## Education
 
-### Bachelor of Commerce (B.Com.), Economics
+**Bachelor of Commerce (B.Com.), Economics**  
+*University of Madras* | *2000 – 2003*  
+- Graduated First Class Honours  
+- Scored 100% in Statistics and Operations Research
 
-**University of Madras**  
-**2000 – 2003**
+---
 
-- Graduated First Class Honours; scored 100% in Statistics and Operations Research.
+## Certifications & Credentials
 
-***
-
-## Licenses \& Certifications
-
-- **Certificate on Risk Taking**, Real World Risk Institute (RWRI18), Jul 2023.
-- **Writing for the 21st Century**, Ashoka University (AshokaX), Apr 2023.
-- **CFP®, CTEP®, SEBI Registered Investment Adviser** – details available on request or via regulatory records.
+- **Certificate on Risk Taking (RWRI18)** — Real World Risk Institute (Jul 2023)
+- **Writing for the 21st Century** — Ashoka University / AshokaX (Apr 2023)
+- **CFP® | CTEP® | SEBI Registered Investment Adviser (RIA)** — *Details available via regulatory records*
