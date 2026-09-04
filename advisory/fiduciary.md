@@ -88,7 +88,7 @@ First check if you're an accredited investor and obtain the accreditation certif
 
 ###  Compliance Information (as required by the statute)
 
-#### Number of Complaints (as on 30 November 2025)
+#### Number of Complaints (as on 31 August 2026)
 [Compliance Requirement As per SEBI circular (SEBI/HO/IMD/DF1/CIR/P/2019/169) dated December 27, 2019]
 
 |At the beginning of the month|	Received during the month|Resolved during the month|Pending at the end of the month|Reasons for pendency|
@@ -205,7 +205,7 @@ Do not share login credentials and passwords of trading, demat, or bank accounts
 
 **Annexure B**
 
-<i>Month Ending: October 2025</i>
+<i>Month Ending: August 2026</i>
 
 |Received From|Pending at end of last month|Received|Resolved|Total Pending|Pending > 3 months|Average Resolution time (days)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -217,12 +217,12 @@ Do not share login credentials and passwords of trading, demat, or bank accounts
 <i>Trend of monthly disposal of Complaints (last 6 months)</i>
 |Month|Carried Forward from previous month|Received|Cummulative|Total Pending|
 |:---:|:---:|:---:|:---:|:---:|
-|Jun 2025|0|0|0|0|
-|Jul 2025|0|0|0|0|
-|Aug 2025|0|0|0|0|
-|Sep 2025|0|0|0|0|
-|Oct 2025|0|0|0|0|
-|Nov 2025|0|0|0|0|
+|Aug 2026|0|0|0|0|
+|Jul 2026|0|0|0|0|
+|Jun 2026|0|0|0|0|
+|May 2026|0|0|0|0|
+|Apr 2026|0|0|0|0|
+|Mar 2026|0|0|0|0|
 
 <i>Trend of annual disposal of complaints</i>
 |Year|Carried Forward from previous year|Received|Cummulative|Total Pending|
@@ -234,6 +234,7 @@ Do not share login credentials and passwords of trading, demat, or bank accounts
 |FY 2022-23|0|0|0|0|
 |FY 2023-24|0|0|0|0|
 |FY 2024-25|0|0|0|0|
+|FY 2025-26|0|0|0|0|
 
 ---
 
@@ -257,6 +258,7 @@ Disclosure with respect to compliance with Annual compliance audit requirement u
 |3|FY 2022-23|Complied|NIL|
 |4|FY 2023-24|Complied|NIL|
 |5|FY 2024-25|Complied|NIL|
+|6|FY 2025-26|In Progress|NA|
 
 ---
 
@@ -272,6 +274,7 @@ Fax: +91-44 -28880333
 Fax: sebisro@sebi.gov.in
 
 [SEBI ODR PORTAL](https://smartodr.in/login)
+[SEBI SCORES](https://scores.sebi.gov.in/scores-home)|
 
 **Principal Officer: Aditya G**
 SEBI REG No: INA200011736
@@ -282,6 +285,7 @@ SEBI REG No: INA200011736
 |:---:|:---:|
 |Aditya Govindaraj|aditya [dot] invest [at] outlook [dot] com|
 |SEBI|[SEBI ODR Mechanism](https://smartodr.in/login)|
+|SCORES|[SEBI SCORES](https://scores.sebi.gov.in/scores-home)|
 
 ---
 
