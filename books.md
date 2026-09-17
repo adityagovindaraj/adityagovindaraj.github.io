@@ -7,7 +7,7 @@
   - mahabharata by ved vyasa
   - pussy by delicious tacos
   - lolita by vladimir nabakov
-  - how to live by derek sivers
+  - intimacies by katie kitamura
   - ghost world by daniel clowes
   - liar's poker by michael lewis
   - hamlet by william shakespeare
@@ -21,7 +21,6 @@
   - the soviet chess primer by ilya maizelis
   - the elements of scoring by raymond floyd
   - the old man and the sea by ernest hemingway
-  - the left hand of darkness by ursula k le guin
   - tinker, tailor, soldier, spy by john lecarre
   - golf is not a game of perfect by dr bob rotella
   - harvey penick's little red book by harvey penick
