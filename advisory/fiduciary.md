@@ -38,9 +38,9 @@ Three reasons.
 
 For years I've made decisions on investments & financial planning for myself & my family, and it worked pretty well. Now, I want to put my experience to good use -- to help YOU.
 
-Second, I strongly believe that being a fiduciary is the best way to help anyone. Just as doctors look your health, financial/investment adviser look after your financial well-being. Having more fiduciaries is good for consumers.
+Second, I strongly believe that being a fiduciary is the best way to help anyone. Just as doctors look your health, financial/investment advisers look after your financial well-being. Having more fiduciaries is good for consumers.
 
-Third, it is difficult to find a fiduciary. And, it's even more difficult to find a genuine advisor whose investment advice is tailored to the your specific needs.
+Third, it is difficult to find advice that is tailored to the your specific needs. Many people do not realise how important this is because they take it for granted.
 
 **Are you always a fiduciary, and will you state that in writing?**
 
@@ -48,7 +48,7 @@ Yes. My relationship with you is purely fiduciary. The client’s best interest 
 
 **Does anybody else ever pay you to recommend certain products or services?**
 
-No. That would be violation of SEBI regulations. I do not earn commissions on products, and I do not sell products. In order to buy financial products that will be suitable to you, I’ll be happy to recommend some good financial distributors or use the "direct route".
+No. That would be violation of SEBI regulations. I do not earn commissions on products, and I do not sell products. In order to buy financial products that will be suitable to you, you will need to find distributors, who sometimes masquerade as "advisors", and sell products for a big fat commission. There are many out there. There's 99% chance that you have been missold a product that is not suitable for you and that you have no idea how much commission you paid.
 
 **What kind of advisory services do you offer?**
 
@@ -60,15 +60,15 @@ An accredited investor is an individual or entity that meets prescribed income/n
 
 **How much do you charge for your services?**
 
-I charge depending on how complex the client requirements are. It's usually between 1%-2% of AuA, and less than the fees charged by portfolio managers and fund houses. I have no employees. I do everything myself, so I expect to be compensated fairly. 
+I charge depending on how complex the client requirements are. It's usually between 1%-2% of AuA, and less than the fees charged by portfolio managers and fund houses. I have no employees. I do everything myself, so I expect to be compensated fairly for offering genuine & tailored advice that has lasting value. 
 
-**Why don't you have employees?**
+**Why are you a solo advisor?**
 
-Good question. First, I do not want to scale up. I'm very choosy when it comes to my clientele and I'm very happy to stay small and nimble. It gives be breathing room for other aspects of my life. It's beautiful. I have a lifestyle that works for me. Secondly, I like to be in control and make sure client is serviced well. If I delegate, there are bound to be slip ups, errors, and a host of second-order problems that can spiral out of control. I dislike putting out fires, so to speak. Thirdly, I perform best when I'm on my own. I love the freedom.  
+Good question. First, I do not want to scale up. I'm very choosy when it comes to my clientele and I'm very happy to stay nimble. It gives me breathing room for other aspects of my life. I have a lifestyle that works for me. Secondly, I like to be in control and make sure client is serviced well. I enjoy close relationships with my clients which helps me earn their trust.
 
 **Are your fees negotiable?**
 
-No. I offer very good value for money.  
+No. I offer very good value for money. Good advice is usually priceless and non-negotiable.
 
 **What is the minimum threshold to be a client?**
 
@@ -82,7 +82,7 @@ I do. Actually, I manage my entire family’s assets. It is reasonable to have a
 
 **How do I contact you?**
 
-First check if you're an accredited investor and obtain the accreditation certification. After doing this, please do send me an email. It's mentioned above, just before this FAQ section. Introduce yourself, how you found me, tell me why you want me as your financial advisor, and the issues you hope to solve. Try to be specific. We will have a conversation over beverage of your choice. We will decide if we can be a good fit and work out something concrete.
+First check if you're an accredited investor and obtain the accreditation certification from a KRA agency or similar. After doing this, please do send me an email, which is mentioned above. Introduce yourself, how you found me, tell me why you want me as your financial advisor, and the issues you hope to solve. Try to be as specific as possible. We will have a conversation over beverage of your choice. We will decide if we can be a good fit and work out something concrete.
 
 ---
 
@@ -258,7 +258,7 @@ Disclosure with respect to compliance with Annual compliance audit requirement u
 |3|FY 2022-23|Complied|NIL|
 |4|FY 2023-24|Complied|NIL|
 |5|FY 2024-25|Complied|NIL|
-|6|FY 2025-26|In Progress|NA|
+|6|FY 2025-26|Complied|NIL|
 
 ---
 
