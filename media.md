@@ -13,28 +13,27 @@
 - the marx brothers 
 - punch-drunk love 
 - mulholland drive  
-- enter the dragon  
-- dhurandhar 1 & 2
+- enter the dragon   
+- dhurandhar 1 & 2 
 - buster keaton 
 - dr strangelove 
-- top gun 1 & 2  
-- casino royale  
-- luck by chance  
-- jules and jim
-- wake up sid
-- being there
-- star wars
+- top gun 1 & 2   
+- casino royale   
+- luck by chance   
+- jules and jim 
+- wake up sid 
+- being there 
+- star wars 
 - mr bean 
-- closer  
-- dr no  
+- closer   
+- dr no   
 
 ## television  
 
 - how i met your mother
 - house of cards
-- game of thrones  
-- breaking bad  
+- game of thrones
 - prison break
-- landman  
+- landman
 - coupling
 - suits
