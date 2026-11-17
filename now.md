@@ -1,20 +1,20 @@
 # This document is inspired by [Derek Sivers](https://sive.rs/now).
 
 # Date & Location  
-Updated 30th day of September, 2026, 1556 hours, from my home in Chennai, India.  
+Updated 15th day of November, 2026, 1756 hours, from my home in Chennai, India.  
 
 # Weather  
-Humid. Sweating buckets. And it's September. 
+Overcast. Humid. Ugh!
 
 # What I am currently reading  
-Glossing over Taschen's Araki. Porn masquerading as photography & art.
+Glossing over Taschen's Araki. Porn masquerading as photography & art. High level arty farty eye candy.
 
 For a full list of books that changed my life, head over [here](https://adityagovindaraj.github.io/books.html)  
 
 # What I am watching  
-"Birds of Prey"
+[Levels](https://youtu.be/IGaRF6dwRkQ?si=Kho9o_eMOJOToti-) by Avicii. This is legendary!
 
 For a full list of my favourite media I've enjoyed, head over [here](https://adityagovindaraj.github.io/media.html)
 
 # What I am doing now?
-Deciding whether I should ski in Kitzbuhel or Wengen. Help me out here! 
+Showered after a shitty round of golf. Chilling down with G&T and listening to Avicii's hook on Etta James. Why is it that I cannot learn music?
